@@ -1,2 +1,3 @@
 # Arctic_vault
-This is a code only to get in the arctic vault
+This is a code for a message to the future
+
